@@ -5,7 +5,9 @@ function Content() {
 
     return (
         <>
-            <Task />
+            <div className="w-[90dvw] h-screen border rounded-md max-w-xl mx-5 px-5 shadow-md">
+                <Task />
+            </div>
         </>
     )
 }

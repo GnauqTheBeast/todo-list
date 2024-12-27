@@ -3,7 +3,7 @@ import Content from "./components/Content";
 
 function App() {
   return (
-    <div className="flex justify-center items-center flex-col gap-2 w-full">
+    <div className="flex flex-col justify-center items-center gap-2 w-auto">
       <Header />
       <Content />
     </div>
