@@ -1,4 +1,4 @@
-import Task from "./Task";
+import Task from "../pages/Task";
 
 function Content() {
 

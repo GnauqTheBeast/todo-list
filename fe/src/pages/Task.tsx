@@ -1,12 +1,12 @@
 import { useState } from "react";
-import { Button } from "./ui/button";
+import { Button } from "../components/ui/button";
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
-} from "./ui/dropdown-menu";
+} from "../components/ui/dropdown-menu";
 import { ChevronDownIcon } from "lucide-react";
 
 const Task = () => {
